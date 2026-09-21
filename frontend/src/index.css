@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+:root { font-family: 'DM Sans', 'Avenir Next', sans-serif; color: #28323d; background: #f6f7f4; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; --ink: #28323d; --muted: #7b8589; --line: #e2e7e3; --paper: #fff; --navy: #1f2f3b; --blue: #4d6ff4; --coral: #f37667; --lime: #c9e86a; --cream: #f5efe4; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input, select { font: inherit; }
+button { border: 0; cursor: pointer; }
+#root { min-height: 100vh; }
